@@ -1,0 +1,19 @@
+####
+#Date: Thu, Oct 13, 2016 6:27:59 PM
+#OSName: Windows 7 Professional Service Pack 1
+#OSVers: 6.1
+#OSBuild: 7601
+#AppName: LabVIEW
+#Version: 15.0 32-bit
+#AppKind: FDS
+#AppModDate: 6/17/2015 15:53 GMT
+#LabVIEW Base Address: 0x00400000
+
+
+InitExecSystem() call to GetCurrProcessNumProcessors() reports: 4 processors
+InitExecSystem() call to GetNumProcessors()            reports: 4 processors
+InitExecSystem()                                      will use: 4 processors
+starting LabVIEW Execution System 2 Thread 0 , capacity: 24 at [3559242493.78314260, (18:28:13.783142567 2016:10:13)]
+starting LabVIEW Execution System 2 Thread 1 , capacity: 24 at [3559242493.78314260, (18:28:13.783142567 2016:10:13)]
+starting LabVIEW Execution System 2 Thread 2 , capacity: 24 at [3559242493.78314260, (18:28:13.783142567 2016:10:13)]
+starting LabVIEW Execution System 2 Thread 3 , capacity: 24 at [3559242493.78314260, (18:28:13.783142567 2016:10:13)]
